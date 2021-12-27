@@ -1,0 +1,32 @@
+.navbar {
+  box-shadow: 0.5px 0.5px 0px 0.5px;
+  margin-bottom: 30px;
+}
+.navbar-brand {
+  margin-right: 20px;
+}
+
+.nav-link {
+  font-weight: 400;
+  font-style: normal;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nav-item {
+  font-size: 18px;
+}
+.icons-end {
+  margin-left: auto;
+  cursor: pointer;
+}
+
+.icons {
+  font-size: 30px;
+}
+
+.search,
+.cart,
+.profile {
+  margin-left: 20px;
+  padding: 10px 5px;
+}
